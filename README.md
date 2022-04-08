@@ -9,4 +9,5 @@ initCentroides en teoria ya va (No he comprobado ni la opcion random ni la custo
 Ahora empiezo a mirarme la de distancia (Raul)
 ## imports adicionales añadidos de mometno
 import random
+
 import math
