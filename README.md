@@ -1,4 +1,6 @@
 # Kmeans
+# NO TENGO NI IDEA DE COMO PUEDE DAR BIEN REVISADLO PLS PQ CREO Q HA DADO DE CHIRIPA
+He hecho lo del koptim 
 
 ## Vamos a hacer una lista de las funciones que vamos consiguiendo que funcionen.
 
