@@ -1,5 +1,5 @@
 # Kmeans
-# He hecho lo del koptim -- NO TENGO NI IDEA DE COMO PUEDE DAR BIEN REVISADLO PLS PQ CREO Q HA DADO DE CHIRIPA
+# He hecho lo del koptim HAY QUE OPTIMIZARLO O ALGO TARDA 6 SEGUNDOS , el aleix con np ha conseguido 1s 
  
 
 ## Vamos a hacer una lista de las funciones que vamos consiguiendo que funcionen.
