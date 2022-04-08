@@ -2,9 +2,9 @@ Vect=[]
 Mat=distance(self.X,self.centroids)
 for i in Mat:
     Minim=i.min()
-    vect = i.getA();
+    vect = i;
     for j in range(self.K):
-        if vect[0][j] == Minim:
+        if vect[j] == Minim:
             index=j
             break
     Vect.append(index)
