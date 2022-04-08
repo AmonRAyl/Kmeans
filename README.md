@@ -11,6 +11,8 @@ Distance  ya va
 Converges ya va
 
 Get labels ya va
+
+Get centroids ya va (Igual hay que optimizarlo)
 ## imports adicionales añadidos de mometno
 import random
 
