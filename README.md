@@ -17,6 +17,13 @@ Get centroids ya va (Igual hay que optimizarlo)
 Kmeans ya va (24 seg en portatil)
 
 Get color ya va
+
+## Falta las de WDS (test_find_bestK)
+
+test_find_bestK 
+
+whitinClassDistance
+
 ## imports adicionales añadidos de mometno
 import random
 
