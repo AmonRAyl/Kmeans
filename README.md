@@ -15,6 +15,8 @@ Get labels ya va
 Get centroids ya va (Igual hay que optimizarlo)
 
 Kmeans ya va (24 seg en portatil)
+
+Get color ya va
 ## imports adicionales añadidos de mometno
 import random
 
