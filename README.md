@@ -13,6 +13,8 @@ Converges ya va
 Get labels ya va
 
 Get centroids ya va (Igual hay que optimizarlo)
+
+Kmeans ya va (24 seg en portatil)
 ## imports adicionales añadidos de mometno
 import random
 
