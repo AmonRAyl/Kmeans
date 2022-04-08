@@ -6,7 +6,9 @@ InitX en teoria ya va
 
 initCentroides en teoria ya va (No he comprobado ni la opcion random ni la custom)
 
-Ahora empiezo a mirarme la de distancia (Raul)
+Distance en teoria ya va
+
+Get labels empiezo a mirarmelo (Raul)
 ## imports adicionales añadidos de mometno
 import random
 
