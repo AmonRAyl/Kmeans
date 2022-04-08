@@ -8,6 +8,8 @@ initCentroides en teoria ya va (No he comprobado ni la opcion random ni la custo
 
 Distance en teoria ya va
 
+Converges ya va
+
 Get labels empiezo a mirarmelo (Raul)
 ## imports adicionales añadidos de mometno
 import random
