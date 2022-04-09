@@ -1,9 +1,6 @@
-tot = 0
+Wcd=0
 for j in range(self.K):
-    total=0
-    for i in range(self.X.shape[0]):
-        if self.labels[i] == j:
-            total = total + cdist([self.centroids[j]],[self.X[i]],'euclidean')**2
-    tot = total + tot
-WCD = tot/self.X.shape[0]
-return WCD
+    Puntos=np.where(self.labels == j)
+    Inter=self.X[Puntos]
+    Wcd+=np.sum(cdist([self.centroids[j]],Inter,'euclidean')**2)
+return Wcd/self.X.shape[0]
